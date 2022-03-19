@@ -1,0 +1,4 @@
+Tkinter - It is GUI Package used to create GUI elements.
+          using some common tools like labels,buttons and Entry Fields to get input from the user side.
+sqlite3 - create a file-based SQL database which is easily store data in memory
+matplotlib - used to plot graphs from the data
