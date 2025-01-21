@@ -29,5 +29,3 @@ This project was created for educational purposes only and is not intended for r
 ## 🙌 Acknowledgments  
 
 Special thanks to my mentors and the resources that helped me build this!  
-
----
