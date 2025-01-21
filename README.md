@@ -10,9 +10,10 @@ This is a simple **Weight Tracker Application** built using **Python** and **SQL
 
 1. Clone the repository:  
    git clone https://github.com/JAGGANRAJ27/Weight-Tracker.git
+   
    cd Weight-Tracker
 
-2. Run the Python script:
+3. Run the Python script:
    Install Necessary packages
    python WeightTracker.py
 
