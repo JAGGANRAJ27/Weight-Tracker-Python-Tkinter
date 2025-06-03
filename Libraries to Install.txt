@@ -1,3 +1,0 @@
-tkinter (pip install tkinter)
-sqlite3 (no need to install)
-matplotlib (pip install matplotlib)

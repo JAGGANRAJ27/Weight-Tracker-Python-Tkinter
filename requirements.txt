@@ -1,4 +1,2 @@
-tkinter 
-sqlite3 
-matplotlib
 customtkinter
+matplotlib
